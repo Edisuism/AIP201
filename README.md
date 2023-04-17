@@ -3,3 +3,5 @@
 Welcome to week 9
 
 This is the collision detection branch
+
+This is a potential merge conflict
